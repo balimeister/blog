@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I try to reuse and build/fix stuff in an unexpensive way.
 
 ### More Information
 
